@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#first_sec{
+    background-color: rgb(144, 194, 237);
+    height: 30rem;
+    border: 1px solid rgb(144, 194, 237);
+}
+#first_section{
+    display: inline-flex;
+    margin-left: 20rem;
+}
+.first_Div{
+    width: 20%;
+    padding: 1rem;
+    margin-top: 5%;
+    height: 10rem;
+    background-color: #fff;
+}
+.second_Div{
+    width: 20%;
+    padding: 1rem;
+    margin: 5% 1rem 0 1rem;
+    background-color: #fff;
+}
+.third_Div{
+    width: 20%;
+    padding: 1rem;
+    margin-top: 5%;
+    height: 10rem;
+    background-color: #fff;
+}
+#cus_comments{
+    margin: 2rem 0 0 19rem;
+}
+#calebImg{
+    width: 2rem;
+    border-radius: 50rem;
+}
+#twitterlogo{
+    width: 1rem;
+    float: right;
+    margin-right: -11rem;
+    margin-top: -2rem;
+}
+#loveLogo{
+    width: 1rem;
+}
+#name{
+    float: right;
+    margin-right: 6rem;
+}
+#alias{
+    float: right;
+    margin-right: 4rem;
+    margin-top: -1rem;
+}
+#text_para{
+    padding-top: 15px;
+    text-align: justify;
+    line-height: 1.5rem;
+}
+button{
+    text-align: center;
+}
+#date{
+    float: right;
+    margin-top: 0.5rem;
+}
+#love, #loveLogo{
+    margin-top: 0.5rem;
+}
+#second_tlogo{
+    width: 2rem;
+}
+.markImg{
+    width: 1.5rem;
+}
+#secDiv1{
+    width: 45%;
+    margin: auto;
+    margin-top: 5rem;
+    text-align: center;
+}
+#simPlan{
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+#startGrowth{
+    font-size: 1.2rem;
+    padding: 1rem;
+    line-height: 1.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(131, 129, 129);
+}
+#markp{
+    font-size: 1.5rem;
+    padding-top: 2rem;
+    color: rgb(131, 129, 129);
+}
+#markp:last-of-type{
+    padding-bottom: 1rem;
+}
+#secDiv2{
+    width: 32%;
+    margin: auto;
+    border: 2px solid rgb(208, 192, 12);
+    border-radius: 3%;
+    padding: 3rem;
+    background-color: rgba(239, 234, 220, 0.687);
+    margin-bottom: 5rem;
+}
+#month{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+#money{
+    font-size: 5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    width: 100%;
+    margin-top: 2rem;
+    height: 4rem;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: rgb(37, 127, 206);
+}
